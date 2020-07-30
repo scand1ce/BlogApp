@@ -13,7 +13,7 @@ SECRET_KEY = '%xmz(+$n(7_y&!q$h-gs%#f)$t5ll#govix#)c86^_j*og%uo('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
